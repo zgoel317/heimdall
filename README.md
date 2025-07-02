@@ -12,6 +12,6 @@ We will add commits to this repo soon, but here are our forks of EleutherAI's re
 
 [matryoshka](https://colab.research.google.com/drive/1jUcVe-PQBU7u48UoyCRO_RJqDGIAIbmD?usp=sharing)
 
-> Be careful of the dependencies
 
 [eval](https://colab.research.google.com/drive/1PQ-RIvkB_sOwSwQPxs0iDfWThX7ruX--?usp=sharing)
+> Be careful of the dependencies for eval - make sure the dependencies in the pyproject.toml in the sparsify repo linked in the pyproject.toml from the attribute repo match the rest of the dependencies needed for the attribute repo.
